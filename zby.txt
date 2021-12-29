@@ -249,8 +249,7 @@ CHC高清电影,http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/
 凤凰香港,http://223.110.236.3/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 
 
-陕西移动#
-央视频道#
+
 CCTV1,http://111.20.33.93/PLTV/88888893/224/3221226231/index.m3u8
 CCTV2,http://111.20.33.93/PLTV/88888893/224/3221226195/index.m3u8
 CCTV2,http://111.20.33.93/PLTV/88888893/224/3221226224/index.m3u8
